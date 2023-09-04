@@ -28,4 +28,4 @@ To run the baseline experiment on FedLM-PSO using CPU:<br>
 
 # Citation
 If you find our work useful in your research, please cite:
-Aline Abboud, Mohamed-el-Amine Brahmia, Rocks Mazraani, Abdelhafid Abouaissa and Ahmad Shahin, <b>"A Hybrid Aggregation Approach for Federated Learning to Improve Energy Consumption in Smart Buildings"</b>, 2023.
+Abboud, M. -E. -A. Brahmia, A. Abouaissa, A. Shahin and R. Mazraani, "A Hybrid Aggregation Approach for Federated Learning to Improve Energy Consumption in Smart Buildings," 2023 International Wireless Communications and Mobile Computing (IWCMC), Marrakesh, Morocco, 2023, pp. 854-859, doi: 10.1109/IWCMC58020.2023.10183138.
